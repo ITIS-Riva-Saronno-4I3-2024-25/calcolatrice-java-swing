@@ -3,20 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package volpintesta.test;
+package calcolatrice_java_swing;
 
 /**
  *
  * @author User
  */
-public class HelloWorld
+public class Calcolatrice
 {
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args)
     {
-        System.out.println("Hello World!");
+        
     }
     
 }
